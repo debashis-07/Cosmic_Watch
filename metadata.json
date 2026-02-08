@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Watch",
+  "description": "A high-fidelity real-time Near-Earth Object (NEO) monitoring platform powered by official NASA data, featuring interactive 3D visualizations and risk analysis.",
+  "requestFramePermissions": []
+}
